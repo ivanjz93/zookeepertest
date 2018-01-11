@@ -1,0 +1,2 @@
+# zookeepertest
+zookeeper java 客户端测试代码、简单的分布式server注册示例以及client监听server变化的示例
